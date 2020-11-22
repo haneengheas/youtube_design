@@ -67,6 +67,7 @@ class NextVideo extends StatelessWidget {
                           CircleAvatar(
                             backgroundImage: AssetImage('assets/ya.jpeg'),
                           ),
+
                           Text('Da7heh .   3daysago')
                         ],
                       )
